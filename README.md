@@ -5,8 +5,8 @@ This is simply made in asp.net MVC 4.
 To Run this application just open web.config file and change appsetting in following. Then Run this application and enjoy
 
 appSettings
-    <add key="TwilioAccountSid" value="Your TwilioAccount Id" />
-    <add key="TwilioApiKey" value="Your TwilioApiKey" />
-    <add key="TwilioApiSecret" value="Your Twilio api Secret" />
-    <add key="TwilioConfigurationSid" value=" Your TwilioConfigurationSid"/>
+add key="TwilioAccountSid" value="Your TwilioAccount Id" 
+add key="TwilioApiKey" value="Your TwilioApiKey" 
+    add key="TwilioApiSecret" value="Your Twilio api Secret"
+    add key="TwilioConfigurationSid" value=" Your TwilioConfigurationSid"
 /appSettings
